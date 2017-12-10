@@ -9,3 +9,4 @@ function Second() {
 return First() * 2;
 };
 Second();
+//just for FUN))
